@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T17:09:34.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PFaYaO21EJHxCVSxy9IB" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T22:50:24.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="32ZicIrb64X8tuVb82iU" version="24.0.1" type="github">
   <diagram name="Strona-1" id="lcwn6AOx6iemLbHwWNfx">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-R2G3Fy26ll-aLyJ9Nz2-39" value="state" style="endArrow=classic;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=default;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.01;exitY=0.873;exitDx=0;exitDy=0;exitPerimeter=0;html=1;labelBackgroundColor=none;spacingLeft=50;fontSize=14;" edge="1" parent="1">
+        <mxCell id="-R2G3Fy26ll-aLyJ9Nz2-39" value="state" style="endArrow=classic;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=default;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.01;exitY=0.873;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;spacingLeft=50;fontSize=14;html=1;" edge="1" parent="1">
           <mxGeometry x="0.7917" y="-10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="772" y="382" as="sourcePoint" />
             <mxPoint x="770" y="360" as="targetPoint" />
